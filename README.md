@@ -14,7 +14,7 @@
 
 ### Для пользователей (без Python):
 
-1. Скачайте файл `BookParserPro.exe` из раздела [Releases](https://github.com/yourusername/book-parser-pro/releases)
+1. Скачайте файл `BookParserPro.exe` из раздела [Releases](https://github.com/lethalthxughts/book-parser-pro/releases)
 2. Запустите `BookParserPro.exe` двойным кликом
 3. Начните работу с парсером!
 
